@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+3 bit adder, A[0:3] on inputs IN0-IN3, B[0:3] on inputs IN4-IN5, output on outputs OUT0-OUT2, carry out on OUT3.
 
 ## How to test
 
-Explain how to use your project
+flip switches, should connect to hex 7 seg leds to display output.
 
 ## External hardware
 
